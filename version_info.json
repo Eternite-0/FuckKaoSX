@@ -1,0 +1,10 @@
+{
+	"software_info": {
+		"name": "FuckKaoSX",
+		"version_number": "1.0.0",
+        "version_id": "1",
+		"release_date": "2025-04-21",
+		"download_url": "https://github.com/Eternite-0/FuckKaoSX/releases/download/1.0.0/FuckKaoSX.zip",
+		"changelog": ["重构代码以提高可读性和可维护性"]
+	}
+}
